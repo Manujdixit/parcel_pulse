@@ -32,7 +32,7 @@ export default function Page() {
             </h2>
 
             <p className="my-4 leading-relaxed text-white/90">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+              Lorem, ipsum dolor sit amet consectetur.
             </p>
           </div>
         </section>
